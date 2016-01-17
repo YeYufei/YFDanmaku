@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new">
+        <file alias="mbg1">mbg1.png</file>
+        <file alias="mbg2">mbg2.png</file>
+        <file alias="mbg3">mbg3.png</file>
+        <file alias="mbg4">mbg4.png</file>
+        <file alias="mbg5">mbg5.png</file>
+        <file alias="mbg6">mbg6.png</file>
+        <file alias="mbg7">mbg7.png</file>
+        <file alias="mbg8">mbg8.png</file>
+        <file alias="mbg9">mbg9.png</file>
+        <file alias="mbg10">mbg10.png</file>
+        <file alias="dialog1">dialog1.png</file>
+        <file alias="dialog2">dialog2.png</file>
+        <file alias="dialog3">dialog3.png</file>
+        <file alias="diaYes1">dialogYes1.png</file>
+        <file alias="diaYes2">dialogYes2.png</file>
+        <file alias="diaYes3">dialogYes3.png</file>
+        <file alias="erwei1">erwei1.png</file>
+        <file alias="erwei2">erwei2.png</file>
+        <file alias="erwei3">erwei3.png</file>
+        <file alias="llleft">LLleft21.png</file>
+        <file alias="llright">LLleft22.png</file>
+        <file alias="lltright">LLleft23.png</file>
+        <file alias="lltleft">LLleft24.png</file>
+    </qresource>
+</RCC>
